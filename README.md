@@ -1,7 +1,8 @@
-# 🪨 Caveman Image Search
+# 🪨 Caveman Image Search Engine
 
 A minimal, fast, and smooth image search engine powered by the [Unsplash API](https://unsplash.com/developers).  
 Built with vanilla HTML, CSS, and JavaScript — designed for clarity and speed.
+Created as a practice project.
 
 ---
 
@@ -37,4 +38,8 @@ Built with vanilla HTML, CSS, and JavaScript — designed for clarity and speed.
    cd caveman-image-search
 2. Open script.js and put your Unsplash API key in the designated setion
 3. Open index.html in your desired browser
+
+---
+
+## Special thanks for visiting this repository. 
 
